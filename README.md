@@ -29,3 +29,5 @@ this never occured when i was testing.
 ### Contributing
 - In case you have something to add to this colorscheme feel free to fork it and if you want to create a pull request. If i believe your changes improved
   the project i will merge them
+
+![Alt text](https://github.com/w8ste/screenshots/blob/main/window_rofi.png)
