@@ -9,5 +9,6 @@ configuration{
     sidebar-mode: false;
     display-drun: "";
     display-run: "";
+    display-window: "";
 }
 @theme "/usr/share/rofi/themes/tokyonight.rasi"
