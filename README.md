@@ -2,11 +2,21 @@
 
 ![Alt text](https://github.com/w8ste/screenshots/blob/main/rofi_full_2.png)
 
-### My Setup
+### Prerequisites
 
-My rofi setup requires you to have some kind of [Nerdfont](https://www.nerdfonts.com/) installed. In case 
-you would like my setup without having to install a nerdfont, just comment out lines 10-12 in my [config.rasi](https://github.com/w8ste/Tokyonight-rofi-theme/blob/main/config.rasi)
+My rofi setup requires you to have some kind of [Nerdfont](https://www.nerdfonts.com/) and [rofi](https://github.com/davatorium/rofi) installed. In case 
+you would like my setup without having to install a nerdfont, just comment out lines 10-12 in my [config.rasi](https://github.com/w8ste/Tokyonight-rofi-theme/blob/main/config.rasi).
 
+### Installation
+
+Run the following commands:
+
+```
+  rm -rf ~/.config/rofi
+  git clone git@github.com:w8ste/Tokyonight-rofi-theme.git ~/.config/rofi
+  mv ~/.config/rofi/tokyonight.rasi /usr/share/rofi/themes
+  rm ~/.config/rofi/README.md
+```
 
 ![Alt text](https://github.com/w8ste/screenshots/blob/main/rofi_full.png)
 
