@@ -18,6 +18,14 @@ Run the following commands:
   rm ~/.config/rofi/README.md
 ```
 
+It may be possible that you need to reaload your .config files (e.g. $mod + shift + r for i3), even though
+this never occured when i was testing.
+
 ![Alt text](https://github.com/w8ste/screenshots/blob/main/rofi_full.png)
 
-### Under construction
+### Appendix
+- This theme was inspired by the [tokyonight](https://github.com/folke/tokyonight.nvim) colorscheme for nvim by folke.
+
+### Contributing
+- In case you have something to add to this colorscheme feel free to fork it and if you want to create a pull request. If i believe your changes improved
+  the project i will merge them
