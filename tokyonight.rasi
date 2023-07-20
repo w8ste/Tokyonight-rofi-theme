@@ -1,3 +1,9 @@
+/*
+ * Tokyonight colorscheme for rofi
+ * User: w8ste
+ */
+
+
 // define colors etc.
 * {
     bg: #24283b;
