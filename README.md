@@ -23,6 +23,14 @@ this never occured when i was testing.
 
 ![Alt text](https://github.com/w8ste/screenshots/blob/main/rofi_full.png)
 
+### Alternative installation
+In case you prefer to install just the theme without my configuration of rofi, you run the following commands:
+```
+  git clone git@github.com:w8ste/Tokyonight-rofi-theme.git ~/tokyonight
+  mv ~/tokyonight/tokyonight.rasi /usr/share/rofi/themes
+  rm -rf ~/tokyonight
+```
+
 ### Appendix
 - This theme was inspired by the [tokyonight](https://github.com/folke/tokyonight.nvim) colorscheme for nvim by folke.
 
