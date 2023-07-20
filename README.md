@@ -12,6 +12,7 @@ you would like my setup without having to install a nerdfont, just comment out l
 Run the following commands:
 
 ```
+  rm -rf ~/.config/rofi
   git clone git@github.com:w8ste/Tokyonight-rofi-theme.git ~/.config/rofi
   mv ~/.config/rofi/tokyonight.rasi /usr/share/rofi/themes
   rm ~/.config/rofi/README.md
