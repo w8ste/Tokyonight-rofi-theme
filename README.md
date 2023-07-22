@@ -34,6 +34,7 @@ In case you prefer to install just the theme without my configuration of rofi, y
 ### Appendix
 - This theme was inspired by the [tokyonight](https://github.com/folke/tokyonight.nvim) colorscheme for nvim by folke.
 - If you like this rofi-theme please, consider becoming a stargazer :)
+- Also check out my [rofi-powermenu](https://github.com/w8ste/Rofi-Powermenu/tree/main)
 
 ### Contributing
 - In case you have something to add to this colorscheme feel free to fork it and if you want to create a pull request. If i believe your changes improved
