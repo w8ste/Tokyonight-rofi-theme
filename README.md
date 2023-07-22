@@ -14,7 +14,7 @@ Run the following commands:
 ```
   rm -rf ~/.config/rofi
   git clone git@github.com:w8ste/Tokyonight-rofi-theme.git ~/.config/rofi
-  mv ~/.config/rofi/tokyonight.rasi /usr/share/rofi/themes
+  sudo mv ~/.config/rofi/tokyonight.rasi /usr/share/rofi/themes
   rm ~/.config/rofi/README.md
 ```
 
