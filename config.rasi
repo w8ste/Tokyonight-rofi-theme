@@ -7,8 +7,8 @@ configuration{
     location: 0;
     disable-history: false;
     sidebar-mode: false;
-    display-drun: "";
-    display-run: "";
-    display-window: "";
+    display-drun: " ";
+    display-run: " ";
+    display-window: " ";
 }
 @theme "/usr/share/rofi/themes/tokyonight.rasi"
