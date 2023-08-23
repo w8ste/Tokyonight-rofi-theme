@@ -44,7 +44,9 @@ this never occured when i was testing.
 In case you prefer to install just the theme without my configuration of rofi, you run the following commands:
 ```
   git clone git@github.com:w8ste/Tokyonight-rofi-theme.git ~/tokyonight
-  mv ~/tokyonight/tokyonight.rasi /usr/share/rofi/themes
+  sudo mv ~/tokyonight/tokyonight.rasi /usr/share/rofi/themes
+  sudo mv ~/.config/rofi/tokyonight_big1.rasi /usr/share/rofi/themes
+  sudo mv ~/.config/rofi/tokyonight_big2.rasi /usr/share/rofi/themes
   rm -rf ~/tokyonight
 ```
 
