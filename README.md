@@ -61,3 +61,8 @@ In case you prefer to install just the theme without my configuration of rofi, y
   the project i will merge them
 
 ![Alt text](https://github.com/w8ste/screenshots/blob/main/window_rofi.png)
+
+### Reddit
+This theme has been posted on reddit [here](https://www.reddit.com/r/unixporn/comments/15ybsjc/rofi_created_my_own_first_rofitheme_how_did_i_do/) and 
+[here](https://www.reddit.com/r/unixporn/comments/15z3ob3/rofi_since_you_all_gave_my_feedback_how_do_you/). A big thanks to the unixporn community for their feedback, which 
+helped me improve this theme :)
