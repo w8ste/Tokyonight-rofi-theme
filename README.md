@@ -12,7 +12,7 @@ Default Version (normal icons and more text):
 Big icons version 1 (bigger icons, one column):
 ![Alt text](https://github.com/w8ste/screenshots/blob/main/rofi_big_icons.png)
 
-Big icons version 2 (bigger icons, column two):
+Big icons version 2 (bigger icons, two columns):
 ![Alt text](https://github.com/w8ste/screenshots/blob/main/rofi_big_icons_sinsingle.png)
 
 ### Prerequisites
