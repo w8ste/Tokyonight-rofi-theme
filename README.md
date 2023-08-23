@@ -1,6 +1,19 @@
 # Tokyonight-rofi-theme
 
+```
+Hey there, this is my Tokyonight rofi theme. Changes are to be expected :)
+Consider leaving a star, so you will not miss any ⭐
+```
+### Versions
+
+Default Version (normal icons and more text):
 ![Alt text](https://github.com/w8ste/screenshots/blob/main/rofi_full_2.png)
+
+Big icons version 1 (bigger icons, one column):
+![Alt text](https://github.com/w8ste/screenshots/blob/main/rofi_big_icons.png)
+
+Big icons version 2 (bigger icons, column two):
+![Alt text](https://github.com/w8ste/screenshots/blob/main/rofi_big_icons_sinsingle.png)
 
 ### Prerequisites
 
@@ -15,6 +28,8 @@ Run the following commands:
   rm -rf ~/.config/rofi
   git clone git@github.com:w8ste/Tokyonight-rofi-theme.git ~/.config/rofi
   sudo mv ~/.config/rofi/tokyonight.rasi /usr/share/rofi/themes
+  sudo mv ~/.config/rofi/tokyonight_big1.rasi /usr/share/rofi/themes
+  sudo mv ~/.config/rofi/tokyonight_big2.rasi /usr/share/rofi/themes
   rm ~/.config/rofi/README.md
 ```
 
