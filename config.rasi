@@ -19,5 +19,6 @@ configuration{
 
     kb-accept-entry: "Control+z, Control+y, Return, KP_Enter";
     kb-move-char-back: "Control+b";
+    kb-remove-to-eol: = "";
 }
 @theme "/usr/share/rofi/themes/tokyonight.rasi"
