@@ -12,13 +12,18 @@ configuration{
     display-window: " ";
     
     //adding vim keybindings
-    kb-row-up: "Up, Control+k";
+    kb-row-up: "Up,Control+k";
     kb-row-left: "Left,Control+h";
     kb-row-right: "Right,Control+l";
-    kb-row-down: "Down, Control+j";
+    kb-row-down: "Down,Control+j";
 
-    kb-accept-entry: "Control+z, Control+y, Return, KP_Enter";
+    kb-accept-entry: "Control+z,Control+y,Return,KP_Enter";
+
+    //fixing up
+    kb-remove-to-eol: "";
     kb-move-char-back: "Control+b";
-    kb-remove-to-eol: = "";
+    kb-remove-char-back: "BackSpace";
+    kb-move-char-forward: "Control+f";
+    kb-mode-complete: "Control+o";
 }
 @theme "/usr/share/rofi/themes/tokyonight.rasi"
