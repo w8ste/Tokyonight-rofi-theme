@@ -18,7 +18,7 @@ Big icons version 2 (bigger icons, two columns):
 ### Prerequisites
 
 My rofi setup requires you to have some kind of [Nerdfont](https://www.nerdfonts.com/) and [rofi](https://github.com/davatorium/rofi) installed. In case 
-you would like my setup without having to install a nerdfont, just comment out lines 10-12 in my [config.rasi](https://github.com/w8ste/Tokyonight-rofi-theme/blob/main/config.rasi).
+you would like my setup without having to install a nerdfont, just comment out lines 10-12 in my [config.rasi](https://github.com/w8ste/Tokyonight-rofi-theme/blob/main/config.rasi). 
 
 ### Installation
 
