@@ -34,7 +34,7 @@ Run the following commands:
 ```
 
 Afterwards you can select the version, that you want via the rofi-theme-selector. In case you do not want all
-of the versions: only `mv` the ones that you want itnto `/usr/share/rofi/themes` and `rm ~/.config/rofi/"version"`the other ones.
+of the versions: only `mv` the ones that you want into `/usr/share/rofi/themes` and `rm ~/.config/rofi/"version"`the other ones.
 It may be possible that you need to reaload your .config files (e.g. $mod + shift + r for i3), even though
 this never occured when i was testing.
 
