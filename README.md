@@ -25,7 +25,7 @@ you would like my setup without having to install a nerdfont, just comment out l
 Run the following commands:
 
 ```
-  rm -rf ~/.config/rofi
+  mv ~/.config/rofi ~/.config/rofi.bak
   git clone git@github.com:w8ste/Tokyonight-rofi-theme.git ~/.config/rofi
   sudo mv ~/.config/rofi/tokyonight.rasi /usr/share/rofi/themes
   sudo mv ~/.config/rofi/tokyonight_big1.rasi /usr/share/rofi/themes
