@@ -10,10 +10,10 @@ Default Version (normal icons and more text):
 ![Alt text](https://github.com/w8ste/screenshots/blob/main/rofi_full_2.png)
 
 Big icons version 1 (bigger icons, one column):
-![Alt text](https://github.com/w8ste/screenshots/blob/main/rofi_big_icons.png)
+![Alt text](https://github.com/w8ste/screenshots/blob/main/rofi_big_icons_sinsingle.png)
 
 Big icons version 2 (bigger icons, two columns):
-![Alt text](https://github.com/w8ste/screenshots/blob/main/rofi_big_icons_sinsingle.png)
+![Alt text](https://github.com/w8ste/screenshots/blob/main/rofi_big_icons.png)
 
 ### Prerequisites
 
