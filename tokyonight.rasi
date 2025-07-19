@@ -58,6 +58,11 @@ message {
     border: 0px 1px 1px 1px;
 }
 
+textbox {
+    margin: 10px;
+    color: @kl;
+}
+
 entry, prompt, case-indicator {
     text-font: inherit;
     text-color: inherit;
