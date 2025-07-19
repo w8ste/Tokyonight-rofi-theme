@@ -61,7 +61,7 @@ message {
 textbox {
     color: @kl;
     padding: 10px;
-    margin: 3px;
+    margin: 0 0 3px 0;
     border: 3px;
     border-color: @primary;
     border-radius: 6px;
