@@ -59,8 +59,12 @@ message {
 }
 
 textbox {
-    margin: 10px;
     color: @kl;
+    padding: 10px;
+    margin: 3px;
+    border: 3px;
+    border-color: @primary;
+    border-radius: 6px;
 }
 
 entry, prompt, case-indicator {
